@@ -64,6 +64,7 @@
     <Compile Include="Assets\Scripts\Floor2GMBehavior.cs" />
     <Compile Include="Assets\Scripts\Floor3GMBehavior.cs" />
     <Compile Include="Assets\Scripts\MainGMBehavior.cs" />
+    <Compile Include="Assets\Scripts\ObjectBehavior.cs" />
     <Compile Include="Assets\Scripts\PlayspaceBehavior.cs" />
     <Compile Include="Assets\Scripts\ToolkitBehavior.cs" />
     <None Include="Assets\MixedRealityToolkit.Providers\Version.txt" />

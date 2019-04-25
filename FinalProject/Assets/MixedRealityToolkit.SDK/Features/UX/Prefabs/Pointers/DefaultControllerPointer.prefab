@@ -135,16 +135,23 @@ LineRenderer:
   m_SortingOrder: 0
   m_Positions:
   - {x: 0, y: 0, z: 0.00009899999}
+  - {x: 0, y: 0, z: 0.12384382}
+  - {x: 0, y: 0, z: 0.24770586}
+  - {x: 0, y: 0, z: 0.3718022}
+  - {x: 0, y: 0, z: 0.49625}
+  - {x: 0, y: 0, z: 0.62116635}
+  - {x: 0, y: 0, z: 0.74666846}
+  - {x: 0, y: 0, z: 0.8728732}
   - {x: 0, y: 0, z: 0.999898}
   m_Parameters:
     serializedVersion: 3
-    widthMultiplier: 0.05
+    widthMultiplier: 0.16
     widthCurve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
-        time: 0
-        value: 0.2
+        time: 0.41666794
+        value: 0.16273804
         inSlope: 0
         outSlope: 0
         tangentMode: 0
@@ -347,8 +354,8 @@ MonoBehaviour:
     serializedVersion: 2
     m_Curve:
     - serializedVersion: 3
-      time: 0
-      value: 0.2
+      time: 0.41666794
+      value: 0.16273804
       inSlope: 0
       outSlope: 0
       tangentMode: 0
@@ -367,11 +374,11 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  widthMultiplier: 0.05
+  widthMultiplier: 0.16
   colorOffset: 0
   widthOffset: 0
   stepMode: 0
-  lineStepCount: 2
+  lineStepCount: 9
   pointDistributionMode: 1
   customPointDistributionLength: 0.1
   customPointDistributionCurve:
@@ -414,7 +421,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2a969079783d81144bce7e89bd03ac89, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  handedness: 1
+  handedness: 2
   destroyOnSourceLost: 1
   useSourcePoseData: 0
   poseAction:
