@@ -22,14 +22,9 @@ public class MainGMBehavior : MonoBehaviour
 
         
     }
-    
+
     void toFloorOne()
     {
-        GameObject rayCam = GameObject.Find("UIRaycastCamera");
-        GameObject acr = GameObject.Find("AsyncCoroutineRunner");
-        DontDestroyOnLoad(rayCam);
-        DontDestroyOnLoad(acr);
-
         SceneManager.LoadScene("Floor1");
     }
 }

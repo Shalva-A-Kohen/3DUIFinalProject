@@ -17,14 +17,14 @@ MonoBehaviour:
   defaultControllerVisualizationType:
     reference: Microsoft.MixedReality.Toolkit.Input.MixedRealityControllerVisualizer,
       Microsoft.MixedReality.Toolkit.SDK
-  useDefaultModels: 1
-  globalLeftControllerModel: {fileID: 1370450866519632, guid: 626257b1a6cd47c2a32a18cf75b2fb23,
+  useDefaultModels: 0
+  globalLeftControllerModel: {fileID: 4605343476597074445, guid: a80ca26cad20fcb4c9d23f63021b02bb,
     type: 3}
-  globalRightControllerModel: {fileID: 1760394390528354, guid: 9ef0df44319c4fb4a05649e5b8ceb6d1,
+  globalRightControllerModel: {fileID: 6264048221977194088, guid: ce6346b4d6aba4248aba07a8c0357700,
     type: 3}
-  globalLeftHandVisualizer: {fileID: 1227372834072826, guid: 378f91dbbff9e2343b27a467467750bf,
+  globalLeftHandVisualizer: {fileID: 4605343476597074445, guid: a80ca26cad20fcb4c9d23f63021b02bb,
     type: 3}
-  globalRightHandVisualizer: {fileID: 1788309537287834, guid: 132c9402d5843aa4f94380840186fd41,
+  globalRightHandVisualizer: {fileID: 6264048221977194088, guid: ce6346b4d6aba4248aba07a8c0357700,
     type: 3}
   controllerVisualizationSettings:
   - description: Windows Mixed Reality Controller
@@ -32,8 +32,9 @@ MonoBehaviour:
       reference: Microsoft.MixedReality.Toolkit.WindowsMixedReality.Input.WindowsMixedRealityController,
         Microsoft.MixedReality.Toolkit.Providers.WindowsMixedReality
     handedness: 1
-    useDefaultModel: 1
-    overrideModel: {fileID: 0}
+    useDefaultModel: 0
+    overrideModel: {fileID: 4605343476597074445, guid: a80ca26cad20fcb4c9d23f63021b02bb,
+      type: 3}
     controllerVisualizationType:
       reference: Microsoft.MixedReality.Toolkit.Input.WindowsMixedRealityControllerVisualizer,
         Microsoft.MixedReality.Toolkit.SDK
@@ -42,8 +43,9 @@ MonoBehaviour:
       reference: Microsoft.MixedReality.Toolkit.WindowsMixedReality.Input.WindowsMixedRealityController,
         Microsoft.MixedReality.Toolkit.Providers.WindowsMixedReality
     handedness: 2
-    useDefaultModel: 1
-    overrideModel: {fileID: 0}
+    useDefaultModel: 0
+    overrideModel: {fileID: 6264048221977194088, guid: ce6346b4d6aba4248aba07a8c0357700,
+      type: 3}
     controllerVisualizationType:
       reference: Microsoft.MixedReality.Toolkit.Input.WindowsMixedRealityControllerVisualizer,
         Microsoft.MixedReality.Toolkit.SDK

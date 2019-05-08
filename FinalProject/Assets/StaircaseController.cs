@@ -4,5 +4,5 @@ using UnityEngine;
 
 public class StaircaseController : MonoBehaviour
 {
-    public onC
+   
 }

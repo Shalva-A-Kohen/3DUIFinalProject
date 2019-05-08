@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 72ad371ef2e38d24c98faf168d587da4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 07 Furniture
+    100004: Layer_1
+    100006: Layer_2
+    100008: Layer_3
+    100010: Layer_4
+    100012: Layer_5
+    100014: Layer_6
+    100016: MESH 1
+    100018: MESH 10
+    100020: MESH 10_2
+    100022: MESH 10_3
+    100024: MESH 11
+    100026: MESH 11_2
+    100028: MESH 11_3
+    100030: MESH 12
+    100032: MESH 12_2
+    100034: MESH 12_3
+    100036: MESH 13
+    100038: MESH 13_2
+    100040: MESH 13_3
+    100042: MESH 14
+    100044: MESH 14_2
+    100046: MESH 14_3
+    100048: MESH 15
+    100050: MESH 15_2
+    100052: MESH 15_3
+    100054: MESH 16
+    100056: MESH 16_2
+    100058: MESH 16_3
+    100060: MESH 17
+    100062: MESH 17_2
+    100064: MESH 17_3
+    100066: MESH 18
+    100068: MESH 18_2
+    100070: MESH 18_3
+    100072: MESH 19
+    100074: MESH 19_2
+    100076: MESH 19_3
+    100078: MESH 1_2
+    100080: MESH 2
+    100082: MESH 20
+    100084: MESH 20_2
+    100086: MESH 21
+    100088: MESH 21_2
+    100090: MESH 22
+    100092: MESH 22_2
+    100094: MESH 23
+    100096: MESH 23_2
+    100098: MESH 24
+    100100: MESH 24_2
+    100102: MESH 25
+    100104: MESH 25_2
+    100106: MESH 26
+    100108: MESH 26_2
+    100110: MESH 27
+    100112: MESH 27_2
+    100114: MESH 28
+    100116: MESH 28_2
+    100118: MESH 2_2
+    100120: MESH 3
+    100122: MESH 3_2
+    100124: MESH 4
+    100126: MESH 4_2
+    100128: MESH 4_3
+    100130: MESH 5
+    100132: MESH 5_2
+    100134: MESH 5_3
+    100136: MESH 6
+    100138: MESH 6_2
+    100140: MESH 6_3
+    100142: MESH 7
+    100144: MESH 7_2
+    100146: MESH 7_3
+    100148: MESH 8
+    100150: MESH 8_2
+    100152: MESH 8_3
+    100154: MESH 9
+    100156: MESH 9_2
+    100158: MESH 9_3
+    100160: Object_10
+    100162: Object_11
+    100164: Object_12
+    100166: Object_13
+    100168: Object_14
+    100170: Object_15
+    100172: Object_16
+    100174: Object_17
+    100176: Object_8
+    100178: Object_9
+    400000: //RootNode
+    400002: 07 Furniture
+    400004: Layer_1
+    400006: Layer_2
+    400008: Layer_3
+    400010: Layer_4
+    400012: Layer_5
+    400014: Layer_6
+    400016: MESH 1
+    400018: MESH 10
+    400020: MESH 10_2
+    400022: MESH 10_3
+    400024: MESH 11
+    400026: MESH 11_2
+    400028: MESH 11_3
+    400030: MESH 12
+    400032: MESH 12_2
+    400034: MESH 12_3
+    400036: MESH 13
+    400038: MESH 13_2
+    400040: MESH 13_3
+    400042: MESH 14
+    400044: MESH 14_2
+    400046: MESH 14_3
+    400048: MESH 15
+    400050: MESH 15_2
+    400052: MESH 15_3
+    400054: MESH 16
+    400056: MESH 16_2
+    400058: MESH 16_3
+    400060: MESH 17
+    400062: MESH 17_2
+    400064: MESH 17_3
+    400066: MESH 18
+    400068: MESH 18_2
+    400070: MESH 18_3
+    400072: MESH 19
+    400074: MESH 19_2
+    400076: MESH 19_3
+    400078: MESH 1_2
+    400080: MESH 2
+    400082: MESH 20
+    400084: MESH 20_2
+    400086: MESH 21
+    400088: MESH 21_2
+    400090: MESH 22
+    400092: MESH 22_2
+    400094: MESH 23
+    400096: MESH 23_2
+    400098: MESH 24
+    400100: MESH 24_2
+    400102: MESH 25
+    400104: MESH 25_2
+    400106: MESH 26
+    400108: MESH 26_2
+    400110: MESH 27
+    400112: MESH 27_2
+    400114: MESH 28
+    400116: MESH 28_2
+    400118: MESH 2_2
+    400120: MESH 3
+    400122: MESH 3_2
+    400124: MESH 4
+    400126: MESH 4_2
+    400128: MESH 4_3
+    400130: MESH 5
+    400132: MESH 5_2
+    400134: MESH 5_3
+    400136: MESH 6
+    400138: MESH 6_2
+    400140: MESH 6_3
+    400142: MESH 7
+    400144: MESH 7_2
+    400146: MESH 7_3
+    400148: MESH 8
+    400150: MESH 8_2
+    400152: MESH 8_3
+    400154: MESH 9
+    400156: MESH 9_2
+    400158: MESH 9_3
+    400160: Object_10
+    400162: Object_11
+    400164: Object_12
+    400166: Object_13
+    400168: Object_14
+    400170: Object_15
+    400172: Object_16
+    400174: Object_17
+    400176: Object_8
+    400178: Object_9
+    2100000: Material_7
+    2100002: FUR_Hamaca_Blue
+    2300000: MESH 1
+    2300002: MESH 10
+    2300004: MESH 10_2
+    2300006: MESH 10_3
+    2300008: MESH 11
+    2300010: MESH 11_2
+    2300012: MESH 11_3
+    2300014: MESH 12
+    2300016: MESH 12_2
+    2300018: MESH 12_3
+    2300020: MESH 13
+    2300022: MESH 13_2
+    2300024: MESH 13_3
+    2300026: MESH 14
+    2300028: MESH 14_2
+    2300030: MESH 14_3
+    2300032: MESH 15
+    2300034: MESH 15_2
+    2300036: MESH 15_3
+    2300038: MESH 16
+    2300040: MESH 16_2
+    2300042: MESH 16_3
+    2300044: MESH 17
+    2300046: MESH 17_2
+    2300048: MESH 17_3
+    2300050: MESH 18
+    2300052: MESH 18_2
+    2300054: MESH 18_3
+    2300056: MESH 19
+    2300058: MESH 19_2
+    2300060: MESH 19_3
+    2300062: MESH 1_2
+    2300064: MESH 2
+    2300066: MESH 20
+    2300068: MESH 20_2
+    2300070: MESH 21
+    2300072: MESH 21_2
+    2300074: MESH 22
+    2300076: MESH 22_2
+    2300078: MESH 23
+    2300080: MESH 23_2
+    2300082: MESH 24
+    2300084: MESH 24_2
+    2300086: MESH 25
+    2300088: MESH 25_2
+    2300090: MESH 26
+    2300092: MESH 26_2
+    2300094: MESH 27
+    2300096: MESH 27_2
+    2300098: MESH 28
+    2300100: MESH 28_2
+    2300102: MESH 2_2
+    2300104: MESH 3
+    2300106: MESH 3_2
+    2300108: MESH 4
+    2300110: MESH 4_2
+    2300112: MESH 4_3
+    2300114: MESH 5
+    2300116: MESH 5_2
+    2300118: MESH 5_3
+    2300120: MESH 6
+    2300122: MESH 6_2
+    2300124: MESH 6_3
+    2300126: MESH 7
+    2300128: MESH 7_2
+    2300130: MESH 7_3
+    2300132: MESH 8
+    2300134: MESH 8_2
+    2300136: MESH 8_3
+    2300138: MESH 9
+    2300140: MESH 9_2
+    2300142: MESH 9_3
+    2300144: Object_10
+    2300146: Object_11
+    2300148: Object_12
+    2300150: Object_13
+    2300152: Object_14
+    2300154: Object_15
+    2300156: Object_16
+    2300158: Object_17
+    2300160: Object_8
+    2300162: Object_9
+    3300000: MESH 1
+    3300002: MESH 10
+    3300004: MESH 10_2
+    3300006: MESH 10_3
+    3300008: MESH 11
+    3300010: MESH 11_2
+    3300012: MESH 11_3
+    3300014: MESH 12
+    3300016: MESH 12_2
+    3300018: MESH 12_3
+    3300020: MESH 13
+    3300022: MESH 13_2
+    3300024: MESH 13_3
+    3300026: MESH 14
+    3300028: MESH 14_2
+    3300030: MESH 14_3
+    3300032: MESH 15
+    3300034: MESH 15_2
+    3300036: MESH 15_3
+    3300038: MESH 16
+    3300040: MESH 16_2
+    3300042: MESH 16_3
+    3300044: MESH 17
+    3300046: MESH 17_2
+    3300048: MESH 17_3
+    3300050: MESH 18
+    3300052: MESH 18_2
+    3300054: MESH 18_3
+    3300056: MESH 19
+    3300058: MESH 19_2
+    3300060: MESH 19_3
+    3300062: MESH 1_2
+    3300064: MESH 2
+    3300066: MESH 20
+    3300068: MESH 20_2
+    3300070: MESH 21
+    3300072: MESH 21_2
+    3300074: MESH 22
+    3300076: MESH 22_2
+    3300078: MESH 23
+    3300080: MESH 23_2
+    3300082: MESH 24
+    3300084: MESH 24_2
+    3300086: MESH 25
+    3300088: MESH 25_2
+    3300090: MESH 26
+    3300092: MESH 26_2
+    3300094: MESH 27
+    3300096: MESH 27_2
+    3300098: MESH 28
+    3300100: MESH 28_2
+    3300102: MESH 2_2
+    3300104: MESH 3
+    3300106: MESH 3_2
+    3300108: MESH 4
+    3300110: MESH 4_2
+    3300112: MESH 4_3
+    3300114: MESH 5
+    3300116: MESH 5_2
+    3300118: MESH 5_3
+    3300120: MESH 6
+    3300122: MESH 6_2
+    3300124: MESH 6_3
+    3300126: MESH 7
+    3300128: MESH 7_2
+    3300130: MESH 7_3
+    3300132: MESH 8
+    3300134: MESH 8_2
+    3300136: MESH 8_3
+    3300138: MESH 9
+    3300140: MESH 9_2
+    3300142: MESH 9_3
+    3300144: Object_10
+    3300146: Object_11
+    3300148: Object_12
+    3300150: Object_13
+    3300152: Object_14
+    3300154: Object_15
+    3300156: Object_16
+    3300158: Object_17
+    3300160: Object_8
+    3300162: Object_9
+    4300000: MESH 28
+    4300002: MESH 27
+    4300004: MESH 26
+    4300006: MESH 25
+    4300008: MESH 24
+    4300010: MESH 23
+    4300012: MESH 22
+    4300014: MESH 21
+    4300016: MESH 20
+    4300018: MESH 2
+    4300020: MESH 1
+    4300022: MESH 3
+    4300024: MESH 19
+    4300026: MESH 18
+    4300028: MESH 17
+    4300030: MESH 16
+    4300032: MESH 15
+    4300034: MESH 14
+    4300036: MESH 13
+    4300038: MESH 12
+    4300040: MESH 11
+    4300042: MESH 10
+    4300044: MESH 9
+    4300046: MESH 8
+    4300048: MESH 7
+    4300050: MESH 6
+    4300052: MESH 5
+    4300054: MESH 4
+    4300056: MESH 4_2
+    4300058: MESH 5_2
+    4300060: MESH 6_2
+    4300062: MESH 7_2
+    4300064: MESH 8_2
+    4300066: MESH 9_2
+    4300068: MESH 10_2
+    4300070: MESH 11_2
+    4300072: MESH 12_2
+    4300074: MESH 13_2
+    4300076: MESH 14_2
+    4300078: MESH 15_2
+    4300080: MESH 16_2
+    4300082: MESH 17_2
+    4300084: MESH 18_2
+    4300086: MESH 19_2
+    4300088: MESH 4_3
+    4300090: MESH 5_3
+    4300092: MESH 6_3
+    4300094: MESH 7_3
+    4300096: MESH 8_3
+    4300098: MESH 9_3
+    4300100: MESH 10_3
+    4300102: MESH 11_3
+    4300104: MESH 12_3
+    4300106: MESH 13_3
+    4300108: MESH 14_3
+    4300110: MESH 15_3
+    4300112: MESH 16_3
+    4300114: MESH 17_3
+    4300116: MESH 18_3
+    4300118: MESH 19_3
+    4300120: MESH 3_2
+    4300122: MESH 1_2
+    4300124: MESH 2_2
+    4300126: MESH 20_2
+    4300128: MESH 21_2
+    4300130: MESH 22_2
+    4300132: MESH 23_2
+    4300134: MESH 24_2
+    4300136: MESH 25_2
+    4300138: MESH 26_2
+    4300140: MESH 27_2
+    4300142: MESH 28_2
+    4300144: Object_8
+    4300146: Object_9
+    4300148: Object_10
+    4300150: Object_11
+    4300152: Object_12
+    4300154: Object_13
+    4300156: Object_14
+    4300158: Object_15
+    4300160: Object_16
+    4300162: Object_17
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

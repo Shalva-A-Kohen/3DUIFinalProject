@@ -6,9 +6,10 @@ using UnityEngine;
 public class Floor1GMBehavior : MonoBehaviour
 {
     // Start is called before the first frame update
+    private GameObject nextF;
     void Start()
     {
-        
+        nextF = GameObject.FindGameObjectWithTag("secondF");
     }
 
     // Update is called once per frame
@@ -24,5 +25,6 @@ public class Floor1GMBehavior : MonoBehaviour
     void toFloorTwo()
     {
         SceneManager.LoadScene("Floor2");
+        Debug.Log (nextF.transform.position);
     }
 }
