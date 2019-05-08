@@ -22,7 +22,7 @@ public class MainGMBehavior : MonoBehaviour
 
         
     }
-
+    
     void toFloorOne()
     {
         GameObject rayCam = GameObject.Find("UIRaycastCamera");
